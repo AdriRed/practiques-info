@@ -1,0 +1,6 @@
+#all files
+*.*
+#except ipynb
+!*.ipynb
+#except gitignore
+!.gitignore
