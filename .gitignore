@@ -4,3 +4,6 @@
 !*.ipynb
 #except gitignore
 !.gitignore
+
+#but sopar
+sopar.ipynb
